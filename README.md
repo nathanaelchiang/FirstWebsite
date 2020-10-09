@@ -1,37 +1,7 @@
 ## History of Basketball
 
-You can use the [editor on GitHub](https://github.com/nathanaelchiang/FirstWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page describes the invention of basketball, one of the most popular sports in the world. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# H1 Invention of Basketball
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanaelchiang/FirstWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+James Naismith was a college instructor at Springfield College. He wanted to make gym class more entertaining because at the end of the fall sports season, gym classes were indoors. He decided to attempt to combine parts of different sports to create a simple game that could be played indoors. He created a small set of rules and nailed two baskets to each of the gym balcony. When his students played it during gym class, basketball was born. 
