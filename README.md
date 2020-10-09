@@ -10,6 +10,6 @@ James Naismith was a college instructor at Springfield College. He wanted to mak
 
 # NBA
 
-The National Basketball Association (NBA) was formed in 1949 and it is the most domminant basketball league in the world. It attracts many people across the world as includes the best basketball players in the world such as Michael Jordan and LeBron James. As one of the most popular sports in the world, basketball contains to grow and the NBA attracts many viewers. The official website for the NBA can be found here [nba.com](www.nba.com).
+The National Basketball Association (NBA) was formed in 1949 and it is the most domminant basketball league in the world. It attracts many people across the world as includes the best basketball players in the world such as Michael Jordan and LeBron James. As one of the most popular sports in the world, basketball contains to grow and the NBA attracts many viewers. The official website for the NBA can be found here [nba.com](https://www.nba.com/).
 
 ![NBA Basketball](https://www.spalding.com/dw/image/v2/ABAH_PRD/on/demandware.static/-/Sites-masterCatalog_SPALDING/default/dwd21974bc/images/hi-res/74876E_FRONT.jpg?sw=555&sh=689&sm=cut&sfrm=jpg)
